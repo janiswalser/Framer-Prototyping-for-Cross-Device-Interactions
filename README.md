@@ -9,8 +9,8 @@ It requires *Node*, *Socket.io* and *Express*
 
 ## Example – first Framer Prototype
 
-[Preview](preview01.gif)
+[Preview](preview_01.gif) 
 
 ## Example – second Framer Prototype
 
-[Preview](preview_02.gif)
+[Preview](preview02.gif)
