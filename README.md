@@ -12,9 +12,11 @@ It requires *Node*, *Socket.io* and *Express*
 Run! →  ```node server.js```
 
 ## Example – first Framer Prototype
+One Framer Prototype opened as multiple clients in the browser.
 
 ![](preview_01.gif) 
 
 ## Example – second Framer Prototype
+Two different Framer Prototypes communicating with each other.
 
 ![](preview02.gif)
