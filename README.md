@@ -9,6 +9,8 @@ This is an example of server-side programming with Framer for realtime communica
 
 It requires *Node*, *Socket.io* and *Express* 
 
+Run! →  ```node server.js```
+
 ## Example – first Framer Prototype
 
 ![](preview_01.gif) 
